@@ -1,1 +1,2 @@
-# assets
+# Assets
+[Send msg](/sendmsg)
